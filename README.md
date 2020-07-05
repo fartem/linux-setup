@@ -4,7 +4,7 @@
 
 | Name | Comment |
 | --- | --- |
-| Arch Linux | Base OS |
+| Arch Linux | Base OS (configuration for [laptop](https://github.com/fartem/i3wm-laptop) and [PC](https://github.com/fartem/i3wm-desktop)) |
 | Ubuntu Server | For servers |
 
 ## Soft
