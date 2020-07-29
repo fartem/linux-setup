@@ -6,3 +6,4 @@
 | GIMP | Image editor | https://www.gimp.org |
 | Toggl | Time tracker | https://toggl.com |
 | maim | Screenshot tool | https://github.com/naelstrof/maim |
+
