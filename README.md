@@ -1,5 +1,7 @@
 # Linux setup
 
+## About
+
 Using Linux OS's and soft.
 
 ## OS
