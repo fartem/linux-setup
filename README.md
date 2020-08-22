@@ -8,8 +8,9 @@ Using Linux OS's and soft.
 
 | Name | Comment |
 | --- | --- |
-| Arch Linux | Base OS (configuration for [laptop](https://github.com/fartem/i3wm-laptop) and [PC](https://github.com/fartem/i3wm-desktop)) |
+| Arch Linux | For laptop ([configuration](https://github.com/fartem/arch-i3wm-laptop)) |
 | Ubuntu Server | For servers |
+| Ubuntu WSL | For Windows |
 
 ## Soft
 
@@ -20,3 +21,4 @@ Using Linux OS's and soft.
 * [Readers](./soft/categories/readers.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
+
