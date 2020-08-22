@@ -21,4 +21,3 @@ Using Linux OS's and soft.
 * [Readers](./soft/categories/readers.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
-
