@@ -1,5 +1,5 @@
-## Readers
+## Productivity
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| apvlv | PDF/EPUB Viewer  | https://github.com/naihe2010/apvlv |
+| Toggl Track | Time tracker | https://toggl.com/track |

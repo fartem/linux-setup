@@ -16,6 +16,7 @@ Using Linux OS's and soft.
 
 * [Development](./soft/categories/development.md)
 * [System](./soft/categories/system.md)
+* [Productivity](./soft/categories/productivity.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
 * [Readers](./soft/categories/readers.md)
