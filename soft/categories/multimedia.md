@@ -2,6 +2,5 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| mpv | Multimedia player | https://mpv.io |
+| VLC | Multimedia player | https://www.videolan.org |
 | Spotify | Music streaming | https://www.spotify.com |
-| feh | Image viewer | https://feh.finalrewind.org |
